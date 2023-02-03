@@ -1,0 +1,31 @@
+.content{
+    /* background-color: aqua; */
+    margin: 30px ;
+    margin-left: 120px;
+    border-radius: 10px;
+    width: 80%;
+    border: 2px solid rgb(216, 219, 226);
+}
+.contents{
+    display: flex;
+    flex-direction: column;
+    height: 160vh;
+    /* width: 80%; */
+    /* background-color: rgb(27, 24, 24); */
+}
+
+.top{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.body{
+    margin: 20px;
+}
+.body ul{
+    margin-top: 1px;
+}
+#ul-info{
+    justify-content: space-between;
+    list-style-type: none;
+}
